@@ -6,12 +6,12 @@ color:
     - '#888880'
     - '#4098B8'
     - '#70C8D8'
-  brandStrength: 1
-  lightness: 0.393444
-  rhythmicContrast: 0.897852
-  saturation: 0.329172
+  brandStrength: 0
+  lightness: 0
+  rhythmicContrast: 0
+  saturation: 0
 cta: {}
-layout_spectrum: 0
+layout_spectrum: 0.178209
 name: Matt Metrovich
 opengraph: {}
 purpose: []
