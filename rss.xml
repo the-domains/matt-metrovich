@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Matt Metrovich]]></title>
         <description><![CDATA[Matt Metrovich]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matt-metrovich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 04:55:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 04:55:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matt-metrovich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's bad luck to be superstitious]]></title>
+            <description><![CDATA[<article><h1>It's bad luck to be superstitious</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29d0611969d40e7ad35b089742190af9d926e13f.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BAvDNeNjxPu/</link>
+            <guid isPermaLink="false">521ab2e7-18d0-4417-910e-a3def3c38ea5</guid>
+            <pubDate>Mon, 25 Jan 2016 04:55:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Your life is a charade when your future is a mirage.]]></title>
-            <description><![CDATA[<article><h1>Your life is a charade when your future is a mirage.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebe5dfe2ea40573207a906fdef655011d4041293.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Your life is a charade when your future is a mirage.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6ffe06c5a01e5eb1078010a4c6ff79e4cc15a92.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BA6KDfrDxOc/</link>
             <guid isPermaLink="false">5c86f5b5-d026-4f57-88e4-665c5a48e500</guid>
             <pubDate>Mon, 25 Jan 2016 04:55:19 GMT</pubDate>
