@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#C8E0D8'
-    - '#001828'
-    - '#888880'
-    - '#4098B8'
-    - '#70C8D8'
-  brandStrength: 0
+    - '#000000'
+    - '#005F85'
+    - '#000000'
+    - '#00A0E0'
+    - '#000000'
+  brandStrength: 1
   lightness: 0
-  rhythmicContrast: 0
+  rhythmicContrast: 1
   saturation: 0
 cta: {}
 layout_spectrum: 0.178209
 name: Matt Metrovich
 opengraph: {}
 purpose: []
-typography_spectrum: 0.568412
+typography_spectrum: 0.42652
